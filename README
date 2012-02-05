@@ -1,0 +1,5 @@
+This project contains the VHDL implementation of a classic five stage pipelined processor, the one you see in the famous book of Computer Architecture by John Hennessey and David Patterson.
+
+It can be referred by beginners to get a feeling of the pipelined implementation of a simple RISC core. But standalone, this cannot be synthesized or simulated, as various modules such as SRAM and clock generator etc. are not avaialable here.
+
+This was developed as part of a lab course at the University of Stuttgart, Germany.
